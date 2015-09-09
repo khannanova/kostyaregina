@@ -53,8 +53,8 @@
         <span class="blue h3-5 col col-12">Фотосессия</span>
         <span class="orange h3-5 col col-12">13:00</span>
         <span class="blue h4 col col-12">
-          С подружками невесты и&nbsp;друзьями жениха. <br>
-          Встречаемся у&nbsp;дома невесты. <br> Ул.&nbsp;Горького 19/8-36. <br> Код от&nbsp;ворот в5в4253
+          С подружками невесты и&nbsp;друзьями жениха.<br>
+          Встречаемся у&nbsp;дома невесты.<br>Ул.&nbsp;Горького 19/8-36.<br>Код от&nbsp;ворот в5в4253
         </span>
       </div>
       <div class="col col-12 md-col-3 center mt3 md-mt0">
@@ -65,7 +65,7 @@
       <div class="col col-12 md-col-3 center mt3 md-mt0">
         <span class="blue h3-5 col col-12">Автобус в&nbsp;Петровский</span>
         <span class="orange h3-5 col col-12">16:30</span>
-        <span class="blue h4 col col-12">Едет через «Кольцо». <br>
+        <span class="blue h4 col col-12">Едет через «Кольцо».<br>
           Автобус HIGER, номер Р567КЕ. <br>
           <a href="tel:+79274349816">+79274349816</a> — водитель Ришат</span>
       </div>
