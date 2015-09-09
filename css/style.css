@@ -1,11 +1,7 @@
 @font-face {
-  font-family: Rupster;
-  src: url(../fonts/Rupster.ttf) format('truetype');
+  font-family: Karton;
+  src: url(../fonts/Karton.otf) format('opentype');
 }
-
-/*.Wrap {
-  background-color: #E4F3E1;
-}*/
 
 .Hero {
   background-image: url(../img/photo1.jpg);
@@ -14,7 +10,7 @@
 }
 
 .Hero__text {
-  font-family: Rupster;
+  font-family: Karton;
 }
 
 .Hero__date {
@@ -35,9 +31,6 @@
   background-position: 22% 70%;
 }
 
-.Section__text {
-}
-
 .Width-phone {
   max-width: 21rem;
 }
@@ -52,7 +45,7 @@
   max-width: 40rem;
 }
 
-.W40 {
+.W80 {
   max-width: 80rem;
 }
 
