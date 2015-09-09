@@ -1,6 +1,6 @@
 @font-face {
-  font-family: Karton;
-  src: url(../fonts/Karton.otf) format('opentype');
+  font-family: Rupster;
+  src: url(../fonts/Rupster.otf) format('truetype');
 }
 
 .Hero {
@@ -10,7 +10,7 @@
 }
 
 .Hero__text {
-  font-family: Karton;
+  font-family: Rupster;
 }
 
 .Hero__date {
