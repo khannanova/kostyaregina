@@ -1,0 +1,98 @@
+@font-face {
+  font-family: Rupster;
+  src: url(../fonts/Rupster.ttf) format('truetype');
+}
+
+/*.Wrap {
+  background-color: #E4F3E1;
+}*/
+
+.Hero {
+  background-image: url(../img/photo1.jpg);
+  height: 100vh;
+  width: 100%;
+}
+
+.Hero__text {
+  font-family: Rupster;
+}
+
+.Hero__date {
+  font-size: 1.625rem
+}
+
+.bg-position {
+  background-position: 50% 70%;
+}
+
+.Section__heading {
+  font-size: 1.875rem;
+}
+
+.Photo-1 {
+  background-image: url(../img/photo2.jpg);
+  padding: 14rem 0;
+  background-position: 22% 70%;
+}
+
+.Section__text {
+}
+
+.Width-phone {
+  max-width: 21rem;
+}
+
+.Photo-2 {
+  background-image: url(../img/photo3.jpg);
+  padding: 14rem 0;
+  background-position: 43% 70%;
+}
+
+.W40 {
+  max-width: 40rem;
+}
+
+.W40 {
+  max-width: 80rem;
+}
+
+.instagram_container {
+  list-style: none
+}
+
+#instafeed {
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+#load-more {
+  cursor: pointer;
+  width: 200px;
+  display: none;
+}
+
+#load-more:hover {
+  background-color: #638BB3;
+}
+
+@media (min-width: 48em ){
+
+  .Hero__date {
+    font-size: 3rem
+  }
+
+  .Section__heading {
+    font-size: 3.5rem;
+  }
+
+  .Section__subhead{
+    font-size: 1.125rem;
+  }
+
+  .Photo {
+    background-position: 0 16%;
+    padding: 16rem 0;
+  }
+
+}
+
