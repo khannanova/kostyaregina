@@ -3,6 +3,14 @@
   src: url(../fonts/Rupster.ttf) format('truetype');
 }
 
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, .h3-5 {
+  font-family: 'Fira Sans', sans-serif;
+}
+
 .Hero {
   background-image: url(../img/photo1.jpg);
   height: 100vh;
