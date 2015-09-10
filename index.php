@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width">
   <title>Свадьба! | Костя и Регина женятся</title>
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href='http://fonts.googleapis.com/css?family=Fira+Sans:400,700&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,700&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="css/basscss-custom.css">
   <link rel="stylesheet" href="css/style.css">
 </head>
