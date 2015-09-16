@@ -44,7 +44,7 @@
 
 
     <div class="h3 bold blue center">
-      Начало в <span class="orange">18:00</span>
+      Начало в <span class="orange">17:00</span>
     </div>
 
     <div class="W80 mt4 mx-auto clearfix">
