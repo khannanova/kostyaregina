@@ -53,7 +53,6 @@
         <span class="orange h3-5 col col-12">13:00</span>
         <span class="blue h4 col col-12">
           С подружками невесты и&nbsp;друзьями жениха.<br>
-          Встречаемся у&nbsp;дома невесты.<br>Ул.&nbsp;Горького 19/8-3.<br>Код от&nbsp;ворот в5в4253
         </span>
       </div>
       <div class="col col-12 md-col-3 center mt3 md-mt0">
