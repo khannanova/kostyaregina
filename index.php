@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
+  <meta property="og:image" content="http://kostyaregina.ru/img/photo1.jpg">
   <title>Свадьба! | Костя и Регина женятся</title>
   <link rel="shortcut icon" href="img/favicon.png">
   <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,700&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
